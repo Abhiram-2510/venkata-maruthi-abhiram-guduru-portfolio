@@ -12,11 +12,11 @@
       "ctaButtons": [
         {
           "text": "Get In Touch",
-          "url": "mailto: vm.abhiram.guduru@gmail.com"
+          "url": "vm.abhiram.guduru@gmail.com"
         },
         {
           "text": "View Resume",
-          "url": "#"
+          "url": "file:///C:/Users/abhir/OneDrive/Desktop/DESKTOP/Company%20Applications/Abhiram_CV.pdf"
         }
       ]
     },
@@ -48,7 +48,7 @@
     },
     "experience": {
       "enabled": true,
-      "title": "Work Experience",
+      "title": "Work Experience & Projects ",
       "items": [
         {
           "company": "ICODOS GmbH",
@@ -67,6 +67,18 @@
           "position": "R & D Intern (Design and Development)",
           "period": "June 2023 - July 2023",
           "description": "Led the design of an automatic trephine punch, valves and solenoid in SolidWorks and Siemens NX Essentials for corneal transplant precision. Engineered an AI-powered cornea transplant device, boosting success by 88%. Collaborated with CSE, ECE & multidisciplinary teams to deploy AI for precise eye localization during surgeries. Achieved micrometre precision in trephine insertion, enhancing accuracy using e-machines and control theory."
+        },
+        {
+          "company": "Bachelor Thesis ",
+          "position": "Amphibatic Vehicle ",
+          "period": "",
+          "description": "Designed and developed a dual-mode rescue vehicle for rapid emergency and flood deployment, integrating a gas-inflation system for instant buoyancy and reliable operation. Improved propulsion efficiency by 52% through iterative prototyping, engineering calculations, and system optimization. Executed the full development cycle from concept trade studies and 3D printing to tolerance stack-up analysis, manufacturing, and technical documentation ensuring robust, scalable performance."
+        },
+        {
+          "company": "",
+          "position": "Portable Stem Cell Banking ",
+          "period": "",
+          "description": "Designed a portable and economical stem cell cryogenic storage system to address the high cost of conventional cord blood preservation. The concept leverages cryogenic-compatible 3D printing and PEEK material to ensure structural integrity, thermal stability, and biocompatibility. Liquid nitrogen is used as the primary coolant to maintain ultra-low storage temperatures. The system emphasizes portability, manufacturability, and scalability for wider healthcare access. The project was recognized with an award when presented as a startup idea, highlighting its innovation and real-world impact."
         }
       ]
     },
@@ -76,7 +88,7 @@
       "items": [
         {
           "title": "Amphibatic Vehicle ",
-          "description": "Designed and developed a dual-mode rescue vehicle for rapid emergency and flood deployment, integrating a gas-inflation system for instant buoyancy and reliable operation. Improved propulsion efficiency by 52% through iterative prototyping, engineering calculations, and system optimization. Executed the full development cycle from concept trade studies and 3D printing to tolerance stack-up analysis, manufacturing, and technical documentation ensuring robust, scalable performance.",
+          "description": "",
           "tags": [],
           "previewUrl": "#",
           "repoUrl": "https://github.com/username/project"
@@ -146,7 +158,7 @@
       "items": [
         {
           "platform": "linkedin",
-          "url": "https://www.linkedin.com/in/abhiramguduru",
+          "url": "https://www.linkedin.com/in/abhiramguduru/",
           "icon": "linkedin"
         }
       ]
