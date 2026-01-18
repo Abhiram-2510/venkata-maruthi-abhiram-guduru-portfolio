@@ -1,0 +1,188 @@
+{
+  "settings": {
+    "name": "Venkata Maruthi Abhiram Guduru",
+    "title": "Mechanical Engineer | R&D Engineer | Additive Manufacturing | Space & Defense Tech Enthusiast ",
+    "location": "Ludwigshafen, Germany",
+    "summary": "I am a research-driven mechanical design engineer specializing in additive manufacturing and complex mechanical systems. With hands-on experience across energy, aerospace, and medical domains, I leverage simulation-led development, rapid prototyping, and design optimization to deliver high-performance, manufacturable hardware solutions.",
+    "profileImage": "https://image2url.com/r2/default/images/1768758815039-7d1b8da3-532c-4810-a2a3-5cab087f6efd.png"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto: vm.abhiram.guduru@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "SolidWorks",
+          "Siemens NX",
+          "Catia V5",
+          "AutoCAD",
+          "ANSYS",
+          "FEM",
+          "Basic CFD",
+          "ABB Robot Studio",
+          "PLC (mechatronics)",
+          "Microsoft Office Suite",
+          "Technical reporting",
+          "Rapid Prototyping",
+          "Mechatronics",
+          "Robotics",
+          "TÜV Standards",
+          "ECSS Standards",
+          "Mechanics"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "ICODOS GmbH",
+          "position": "R & D Working Student in Additive Manufacturing",
+          "period": "September 2025 - Present",
+          "description": "Executed additive manufacturing operations for chemical reactor components, supporting design, fabrication, and assembly of 2 reactor prototypes. Created 10+ BFDs, PFDs, and P&ID diagrams. Performed FEM simulations on reactor and heat exchanger components. Designed a gyroid-based heat exchanger with 30% surface area enhancement. Collaborated with a multidisciplinary engineering team to iterate reactor designs, reducing design-to-prototype cycle time by 25%. Utilized Siemens NX & CATIA for design and ANSYS for validation."
+        },
+        {
+          "company": "Defence Research and Development Organisation (DRDO)",
+          "position": "Design and Innovation Intern",
+          "period": "December 2023 - April 2024",
+          "description": "Led and collaborated with a team to resolve 41% of key missile design issues with FRP shells & propulsion technologies. Optimized missile and spaceflight component weight, achieving a 24% reduction. Increased missile efficiency by 19%. Tested various metals and polymers for spaceflight applications. Coordinated team efforts to enhance missile functionality and reduce maintenance costs. Utilized SolidWorks for design, ANSYS for validation, and composite structures for fabrication."
+        },
+        {
+          "company": "Akriti Ophthalmic Private Limited",
+          "position": "R & D Intern (Design and Development)",
+          "period": "June 2023 - July 2023",
+          "description": "Led the design of an automatic trephine punch, valves and solenoid in SolidWorks and Siemens NX Essentials for corneal transplant precision. Engineered an AI-powered cornea transplant device, boosting success by 88%. Collaborated with CSE, ECE & multidisciplinary teams to deploy AI for precise eye localization during surgeries. Achieved micrometre precision in trephine insertion, enhancing accuracy using e-machines and control theory."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": false,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Amphibatic Vehicle ",
+          "description": "Designed and developed a dual-mode rescue vehicle for rapid emergency and flood deployment, integrating a gas-inflation system for instant buoyancy and reliable operation. Improved propulsion efficiency by 52% through iterative prototyping, engineering calculations, and system optimization. Executed the full development cycle from concept trade studies and 3D printing to tolerance stack-up analysis, manufacturing, and technical documentation ensuring robust, scalable performance.",
+          "tags": [],
+          "previewUrl": "#",
+          "repoUrl": "https://github.com/username/project"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Technische Universität Clausthal",
+          "degree": "M.Sc. (Intelligent Manufacturing)",
+          "period": "October 2024 - Ongoing"
+        },
+        {
+          "institution": "Velagapudi Ramakrishna Siddhartha Engineering College",
+          "degree": "B.Tech (Mech. Engineering)",
+          "period": "July 2020 - June 2024"
+        },
+        {
+          "institution": "Andhra University, Vishhakapatnam",
+          "degree": "M.B.A",
+          "period": "August 2024 - August 2026"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Best Paper Award",
+          "description": "Secured the Best Paper Award out of 890 innovations for pioneering water purification research."
+        },
+        {
+          "title": "Best Public Speaker Award",
+          "description": "Achieved the Best Public Speaker Award in an interdepartmental extempore competition."
+        },
+        {
+          "title": "Cricket Championship Victory",
+          "description": "Led the team to victory in a cricket championship during bachelor's studies."
+        },
+        {
+          "title": "1st Place in Competitive Debate",
+          "description": "Won 1st place in a competitive debate, demonstrating strong analytical and communication skills."
+        },
+        {
+          "title": "Published Research Papers",
+          "description": "Published 2 research papers in peer-reviewed journals/conferences."
+        },
+        {
+          "title": "Patent Filed and Secured",
+          "description": "Filed and secured 1 patent (Application-Number:202341075979 A), with 1 additional patent (cryogenic STEM cell bank) currently under review."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "vm.abhiram.guduru@gmail.com",
+      "phone": "+49 15510055028",
+      "location": "Germany"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/abhiramguduru",
+          "icon": "linkedin"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Venkata Maruthi Abhiram Guduru. All rights reserved."
+  }
+}
